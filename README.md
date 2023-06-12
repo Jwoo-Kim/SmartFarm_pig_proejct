@@ -3,5 +3,5 @@
 
 
 ### ERD 다이어그램
-  <img src="https://github.com/Jwoo-Kim/SmartFarm_pig_proejct/blob/main/ERdiagram_DB.png width="200" height="400"/>
+<img src="https://github.com/Jwoo-Kim/SmartFarm_pig_proejct/blob/main/ERdiagram_DB.png" width="200" height="400"/>
 
