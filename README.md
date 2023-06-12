@@ -18,4 +18,5 @@
 
 ### 실행영상 링크 : 
 - https://github.com/Jwoo-Kim/SmartFarm_pig_proejct/blob/main/UI%EC%86%8C%EA%B0%9C%EC%98%81%EC%83%81.mp4
+- 
 
