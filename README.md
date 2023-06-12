@@ -20,4 +20,4 @@
 - https://github.com/Jwoo-Kim/SmartFarm_pig_proejct/blob/main/UI%EC%86%8C%EA%B0%9C%EC%98%81%EC%83%81.mp4
 
 ### 발표자료 링크 :
-- https://github.com/Jwoo-Kim/SmartFarm_pig_proejct
+- https://github.com/Jwoo-Kim/SmartFarm_pig_proejct/blob/main/%EB%8F%88%EC%82%AC%20%EB%82%B4%20%EB%8F%BC%EC%A7%80%EA%B4%80%EB%A6%AC%20GUI%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.pdf
