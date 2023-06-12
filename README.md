@@ -18,3 +18,5 @@
 
 ### 실행영상 링크 : 
 <img src= "https://github.com/Jwoo-Kim/SmartFarm_pig_proejct/assets/61930891/831785c0-511c-4e24-9a7c-1cfdaab2accb" />
+
+<img src="https://github.com/Jwoo-Kim/SmartFarm_pig_proejct/assets/61930891/c55d3f69-898e-41f3-b55f-4166283c8832" />
