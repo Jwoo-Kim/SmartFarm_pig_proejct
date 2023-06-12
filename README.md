@@ -16,7 +16,7 @@
 ### ERD 다이어그램
 <img src="https://github.com/Jwoo-Kim/SmartFarm_pig_proejct/blob/main/ERdiagram_DB.png" width="600" height="600"/>
 
-### 실행영상 링크 : 
+### 실행영상 다운로드 링크 : 
 - https://github.com/Jwoo-Kim/SmartFarm_pig_proejct/blob/main/UI%EC%86%8C%EA%B0%9C%EC%98%81%EC%83%81.mp4
 
 ### 발표자료 링크 :
